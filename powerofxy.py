@@ -5,9 +5,6 @@
 
 
 
-
-
-
 x,y=eval(input("Enter no1, no2"))
 print("Power = ", x**y) 
 #Python supports multi way assignment to variable
